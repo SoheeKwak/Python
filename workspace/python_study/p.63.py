@@ -1,0 +1,6 @@
+print("%d %x %o" % (15, 15, 15))
+print("\n줄바꿈\n연습")
+print("\t탭키\t연습")
+print("%d" % 123)
+print("%5d" % 123)
+print("%05d" % 123)
